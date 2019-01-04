@@ -6,6 +6,7 @@
 - https://medium.com/@jameslewis/how-i-manage-and-prioritise-my-time-as-a-product-manager-6208f3e39ea8
 - https://medium.com/@jessmartin/why-you-should-use-trello-for-damn-near-everything-dca943d58fa9
 - https://hackernoon.com/personal-kanban-part-2-personal-kanban-with-trello-a6bd6cdb0588
+- http://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html
 
 
 ### Health
